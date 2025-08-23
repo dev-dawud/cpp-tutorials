@@ -13,9 +13,8 @@
 - Parameters & Return Values
 - Function Overloading
 
-## Arrays & Strings
+## Arrays
 - Simple Arrays
-- Strings
 - Vectors (std::vector)
 
 ## Pointers & References
