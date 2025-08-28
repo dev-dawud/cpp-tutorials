@@ -1,35 +1,37 @@
-# C++ Roadmap for Beginners 🚀
+#      C++ Portfolio by David
 
-## Basics
-- Hello World
-- Variables & Data Types
-- Input/Output (cout, cin)
-- Conditionals (if, else, switch)
-- Operators
-- Loops (for, while, do-while)
+Welcome to my C++ learning portfolio!  
+This repository is organized into **thematic folders**, each containing source files with well-commented examples.  
+The goal is to explain concepts in a beginner-friendly way while also keeping the code clean and structured.  
 
-## Functions
-- Function Definition & Calling
-- Parameters & Return Values
-- Function Overloading
+---
 
-## Arrays
-- Simple Arrays
-- Vectors (std::vector)
+## 📂 Folder Overview
 
-## Pointers & References
-- Basics of Pointers
-- Pointer Arithmetic
-- References
+- **basics/**
+  - `hello_world.cpp` → the classic first program  
+  - `Variables_Data_Types.cpp` → variables & primitive types  
+  - `input_output.cpp` → handling user input/output  
+  - `operators.cpp` → arithmetic and logical operators  
+  - `conditionals_if_else.cpp` → control flow with if/else  
+  - `conditionals_switch.cpp` → switch statement example  
+  - `loops_for_while_do-while.cpp` → looping basics  
+  - `loops_for_while_do-while_solution.cpp` → exercise solution  
 
-## Object-Oriented Programming (OOP)
-- Classes & Objects
-- Constructors & Destructors
-- Inheritance
-- Polymorphism
+- **functions/**
+  - `function_definition_calling.cpp` → defining & calling functions
+  - `parameters_return_values.cpp` → more details on function usage  
+  - `function_overloading.cpp` → using overloaded functions  
 
-## Advanced Topics
-- Templates
-- Exception Handling
-- Smart Pointers
-- Multithreading
+
+- **arrays/**
+  - `simple_arrays.cpp` → static arrays  
+  - `vectors.cpp` → introduction to `std::vector`  
+
+- **classes_oop/**
+  - (coming soon: classes, constructors, inheritance, etc.)  
+
+- **pointers/**
+  - (coming soon: working with pointers & memory management)  
+
+---
