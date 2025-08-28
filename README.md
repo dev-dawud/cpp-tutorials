@@ -1,8 +1,8 @@
 #      C++ Portfolio by David
 
 Welcome to my C++ learning portfolio!  
-This repository is organized into **thematic folders**, each containing source files with well-commented examples.  
-The goal is to explain concepts in a beginner-friendly way while also keeping the code clean and structured.  
+This repository is organized into **thematic folders**, each containing source files with well commented examples.  
+The goal is to explain concepts in a beginner friendly way while also keeping the code clean and structured.  
 
 ---
 
