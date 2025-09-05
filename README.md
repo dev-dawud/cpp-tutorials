@@ -1,12 +1,12 @@
-#      C++ Portfolio by David
+#      C++ Tutorial by David
 
-Welcome to my C++ learning portfolio!  
-This repository is organized into **thematic folders**, each containing source files with well commented examples.  
+Welcome to my C++ roadmap!  
+This repository is organized into thematic folders, each containing source files with well commented examples (comments: explain everything to you also for beginners and entermediate).  
 The goal is to explain concepts in a beginner friendly way while also keeping the code clean and structured.  
 
 ---
 
-## 📂 Folder Overview
+##  Folder Overview
 
 - **basics/**
   - `hello_world.cpp` → the classic first program  
